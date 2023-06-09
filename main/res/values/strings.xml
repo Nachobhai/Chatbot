@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ChatGPT</string>
+    <string name="CHATHEADING">कृषि मंत्रणा</string>
+    <string name="YES">हां</string>
+    <string name="NO">नहीं</string>
+    <string name="CONTINUECONVERSATION">जारी रखें</string>
+    <string name="NEWCONVERSATION">नया वार्तालाप</string>
+    <string name="BOTQUSASK">कृपया अपना प्रश्न पूछें।</string>
+    <string name="CHOOSESUB">कृपया विषय का चयन करें </string>
+    <string name="CATEGORYLIST">कृषि, पशुपालन</string>
+    <string name="KRISHI_SUGGESTIONS">फसल सुरक्षा, खाद प्रबन्धन, जल एबं सिंचाई प्रबन्धन, सामान्य प्रबन्धन</string>
+    <string name="AH_SUGGESTIONS">स्वास्थ्य प्रबन्धन, चारा प्रबन्धन, सामान्य प्रबन्धन</string>
+    <string name="HEADING">नमस्कार, कृषि मंत्रणा आपका स्वागत करता है। इस सत्र के दौरान आप कृषि से जुड़े प्रश्नों/समस्या को प्रस्तुत कर सकते हैं, जिनका उत्तर/समाधान स्वचालित ए.आई. प्रणाली द्वारा दिया जाएगा।</string>
+    <string name="ASKQUSTOBOT">कृपया मुझसे एक प्रश्न पूछें ..</string>
+    <string name="ISANSRIGHT">यह उत्तर उपयोगी था? हां /नहीं</string>
+    <string name="OPTIMALANS">सबसे प्रासंगिक प्रश्न और उत्तर है: </string>
+    <string name="NA">इनमें से कोई नहीं</string>
+    <string name="CHOOSEOPTIMALQUS">कृपया वह प्रश्न संख्या डालें जो आपको सबसे अधिक प्रासंगिक लगे:</string>
+    <string name="BOTHELP">कृषि मंत्रणा में आपका स्वागत है। मै आप के लिये क्या कर सकती हूँ?</string>
+    <string name="ASKOTHERQUS">क्या आप ऊपर दिए गए प्रश्नों में से कोई अन्य प्रश्न पूछना चाहेंगे ? हां /नहीं</string>
+    <string name="ASKOTHERQUS2">कृपया एक और प्रश्न संख्या दर्ज करें जिसमें आप रुचि रखते हैं: </string>
+    <string name="NOOUTPUT">मुझे आपका प्रश्न सही प्रतीत नहीं होता है। क्या आप अपने प्रश्न को स्पष्ट कर सकते है?</string>
+
+
+
+</resources>
