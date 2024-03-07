@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">ChatGPT</string>
+    <string name="CHATHEADING">কৃষি মন্ত্রণা</string>
+    <string name="YES">হ্যাঁ</string>
+    <string name="NO">না</string>
+    <string name="CONTINUECONVERSATION">চালিয়ে যান</string>
+    <string name="NEWCONVERSATION">নতুন কথোপকথন</string>
+    <string name="BOTQUSASK">দয়া করে আপনার প্রশ্নটি জিজ্ঞাসা করুন।</string>
+    <string name="CHOOSESUB">দয়া করে একটি বিষয় নির্বাচন করুন। </string>
+    <string name="CATEGORYLIST">কৃষি, পশুপালন</string>
+    <string name="KRISHI">কৃষি   </string>
+    <string name="PASHUPALAN">পশুপালন   </string>
+    <string name="KRISHI_SUGGESTIONS">ফসলের সুরক্ষা, জৈব সার ব্যবস্থাপনা, জল এবং সেচ ব্যবস্থাপনা, সাধারণ ব্যবস্থাপনা</string>
+    <string name="AH_SUGGESTIONS">স্বাস্থ্য ব্যবস্থাপনা, পশুখাদ্য ব্যবস্থাপনা, সাধারণ ব্যবস্থাপনা</string>
+    <string name="HEADING">নমস্কার কৃষি মন্ত্রণা প্রশ্নোত্তর পর্বে আপনাকে স্বাগত। এই পর্বে আপনি কৃষিকাজ এবং পশুপালন সম্পর্কিত প্রশ্ন / সমস্যাগুলি করতে পারেন, যার উত্তর / সমাধানগুলি স্বয়ংক্রিয় এআই ব্যবস্থার মাধ্যমে দেওয়া হবে।</string>
+    <string name="ASKQUSTOBOT">দয়া করে আমাকে একটি প্রশ্ন জিজ্ঞাসা করুন …</string>
+    <string name="ISANSRIGHT">এই উত্তরটি কি উপযুক্ত? হ্যাঁ / না</string>
+    <string name="OPTIMALANS">সর্বাপেক্ষা প্রাসঙ্গিক প্রশ্ন এবং উত্তর হল:</string>
+    <string name="NA">উপরের কোনটিই নয়.</string>
+    <string name="CHOOSEOPTIMALQUS">দয়া করে যে প্রশ্নটি আপনার সবচেয়ে প্রাসঙ্গিক বলে মনে হচ্ছে সেই প্রশ্ন সংখ্যাটি দিন:</string>
+    <string name="BOTHELP">কৃষি মন্ত্রণায় আপনাকে স্বাগত। আমি আপনার জন্য কি করতে পারি?</string>
+    <string name="ASKOTHERQUS">আপনি কি উপরোক্ত প্রশ্নগুলির মধ্যে থেকে অন্য কোনো প্রশ্ন জিজ্ঞাসা করতে চান? হ্যাঁ / না </string>
+    <string name="ASKOTHERQUS2">দয়া করে আপনার পছন্দমত অন্য আরেকটি প্রশ্ন সংখ্যা টাইপ করুন:</string>
+    <string name="NOOUTPUT">সম্ভবত জিজ্ঞাসা করা প্রশ্নটি সঠিক নয়। আপনি আপনার প্রশ্নটি স্পষ্ট করতে পারেন?</string>
+
 </resources>

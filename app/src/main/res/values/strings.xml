@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">ChatGPT</string>
-    <string name="CHATHEADING">कृषि मंत्रणा</string>
+    <string name="app_name" translatable="false">ChatGPT</string>
+    <string name="CHATHEADING" translatable="false">कृषि मंत्रणा</string>
     <string name="YES">हां</string>
     <string name="NO">नहीं</string>
     <string name="CONTINUECONVERSATION">जारी रखें</string>
@@ -8,6 +8,8 @@
     <string name="BOTQUSASK">कृपया अपना प्रश्न पूछें।</string>
     <string name="CHOOSESUB">कृपया विषय का चयन करें </string>
     <string name="CATEGORYLIST">कृषि, पशुपालन</string>
+    <string name="KRISHI">कृषि </string>
+    <string name="PASHUPALAN">पशुपालन </string>
     <string name="KRISHI_SUGGESTIONS">फसल सुरक्षा, खाद प्रबन्धन, जल एबं सिंचाई प्रबन्धन, सामान्य प्रबन्धन</string>
     <string name="AH_SUGGESTIONS">स्वास्थ्य प्रबन्धन, चारा प्रबन्धन, सामान्य प्रबन्धन</string>
     <string name="HEADING">नमस्कार, कृषि मंत्रणा आपका स्वागत करता है। इस सत्र के दौरान आप कृषि से जुड़े प्रश्नों/समस्या को प्रस्तुत कर सकते हैं, जिनका उत्तर/समाधान स्वचालित ए.आई. प्रणाली द्वारा दिया जाएगा।</string>
